@@ -24,10 +24,10 @@ button {
 .jason {
   background: url('./jason.png') 0 0 no-repeat;
   background-size: contain;
-  color: #B3330A;
+  color: black;
 }
 .jason button {
-  color: #B3330A;
+  color: black;
 }
 
 .ryan {
